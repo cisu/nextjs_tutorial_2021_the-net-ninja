@@ -38,3 +38,15 @@ footer {
   color: #777;
   border-top: 1px solid #eaeaea;
 }
+
+
+// 404 pages
+.not-found {
+  text-align: center;
+
+  & a{
+    color: #4979ff;
+    text-decoration: underline;
+  }
+
+}
